@@ -18,6 +18,7 @@ sudo apt install -y automake autoconf pkg-config libcurl4-openssl-dev libjansson
 clear
 sleep 02
 figlet git CUPminer
+rm -rf cpuminer-multi
 git clone https://github.com/tpruvot/cpuminer-multi.git
 clear
 figlet done
@@ -28,3 +29,12 @@ cd cpuminer-multi
 sudo ./build.sh
 clear
 figlet done
+sleep 03
+clear
+figlet pers
+figlet crtl + c
+figlet to cansel run run.sh
+sleep 05
+clear
+figlet start miner 
+./run.sh
