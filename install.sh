@@ -44,4 +44,5 @@ sleep 05
 clear
 figlet start miner 
 echo "BTC donation address: BC1QF3NTHFRDKD7QJN4KP6YJDRRFSX5WHU39P9X5CP "
+cd ..
 ./run.sh
