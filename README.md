@@ -2,10 +2,12 @@
 ### install 
 - ```git colne https://github.com/samsesh/GoogleConsole_CPUminer.git```
 - ```cd GoogleConsole_CPUminer```
+- ```chmod +x install.sh```
 - ```sudo install.sh```
 ### run
 - edit run.sh for config 
 - ```nano run.sh```
+- ```chomd +x run.sh ```
 - then run ```sudo run.sh``` for mining
 ### get free debain server on google 
 - just go to https://shell.cloud.google.com and login
