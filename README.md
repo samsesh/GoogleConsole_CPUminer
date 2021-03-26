@@ -1,6 +1,6 @@
 # GoogleConsole_CPUminer
 ### install 
-- ```git colne https://github.com/samsesh/GoogleConsole_CPUminer.git```
+- ```git clone https://github.com/samsesh/GoogleConsole_CPUminer.git```
 - ```cd GoogleConsole_CPUminer```
 - ```chmod +x install.sh```
 - ```sudo install.sh```
